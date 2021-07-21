@@ -5,6 +5,9 @@
 
 仅集成passwall(xray core)、AdGuard Home、ShadowSocksR Plus+（xray core)、SmartDNS
 
+请在release自行下载
+
+不提供刷机教程，请利用互联网自行寻找
 
 Sources:
 
