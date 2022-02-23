@@ -3,7 +3,7 @@
 
 基于lean的openwrt与kanzok8的openwrt-packages
 
-仅集成passwall(xray core)、AdGuard Home、ShadowSocksR Plus+（xray core)、SmartDNS
+旁路由分支，集成usb支持，aria2，samba，minidlna
 
 请在release自行下载
 
