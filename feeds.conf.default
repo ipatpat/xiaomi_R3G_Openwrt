@@ -7,4 +7,3 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git small https://github.com/kenzok8/small
-src-git hyy https://github.com/hyy-666/openwrt-packages
